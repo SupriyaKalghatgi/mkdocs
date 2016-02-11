@@ -1,0 +1,234 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Native Starter Pro\n - The Bootstrap of \nReact Native\n\n\n\n\n\n\n\nBased on \nReact Native\n, \nNative Starter Pro\n is a beautifully designed, responsive iOS \n Android app source code to quickly get started on your next project.\n\n\n\n\nNative Starter Pro\n is a bold and flexible \nReact Native\n theme best suited for developing apps that makes use of ready-made tools. The theme has several widget areas that allows you to extend your theme functionality with plugins. \nNative Starter Pro\n is performance optimized.\n\n\n\n\n\n\n\n\n\n\n \n \n\n\n\n\n\n\n\n\n\n\nTheme Features \n\n\n\n\n\nClean \n Validated Code\n\n\nWe can boast with our ability that we provides a code which is easily editable by any person with just enough HTML/PHP knowledge.\n\n\n\n\nReady to Use Screens\n\n\nFully customizable pages with everything you need from SignUp/Login, Compose Mail, Contacts, Calendar to Settings and rich collection of UI elements.\n\n\n\n\nTheme Widgets\n\n\nYou won\u2019t spend a fortune on the plugins to make sure your theme sails smoothly on The Seven Seas. Highly customizable widgets are part of our never ending mission.\n\n\n\n\nMass of UI Elements\n\n\nReady to use components such as buttons, switches, form elements with ListView and ScrollView implementation and full fledged collection of Icons.\n\n\n\n\nMail\n\n\nReady to use Email Template which incorporates the core functionalities of Email process.\n\n\n\n\nContacts and Calendar\n\n\nReadily available list of Contacts which are further categorized to Favourites and Recent Contacts.\nInteractive design of Calendar with fast swiping feature.\n\n\n\n\nCharts\n\n\nThis theme comes with ready-to-use dynamic chart where you can rate qualities of your product or app.\n\n\n\n\nResponsive Navigator\n\n\nThis theme wraps navigation that provides smooth swipe functionality across your app.\n\n\n\n\nResponsive Design\n\n\nWe know that your website needs to be accessible and readable on all devices. The theme is fully responsive so that your designs look great no matter what.\n\n\n\n\nWide Choice of Colors\n\n\nWe made sure that our buyers be having plenty of colors with beautiful fonts and subtle graphics to choose from in the theme options.\n\n\n\n\n\n\nInstallation \n\n\n\n\n\n\n\nTo use the \nNative Starter Pro\n mobile theme, you need to have \nnpm2\n globally installed.\n\n\n\n\n\n\ncd NativeStarter\n\n\n\n\n\n\n\n\nnpm install\n\n\n\n\n\n\n\n\nFor iOS\n\n\nGo to \nXcode\n and open \nNativeStarter.xcodeproj\n inside \nios\n directory.\n\n\nIn your finder / computer, navigate to \nNativeStarter\n (project folder) -\n node_modules -\n react-native-vector-icons\n\n\nDrag the \nRNVectorIcons.xcodeproj\n to the Libraries in the sidebar as explained in the image below\n  \n\n\nNow hit run/\n + R.\n\n\n\n\n\n\n\n\n\n\n\n\nFor Android\n\n\nMake sure you have an \nAndroid emulator\n installed and running.\n\n\nType \nreact-native run-android\n in your terminal.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#native-starter-pro-the-bootstrap-of-react-native", 
+            "text": "", 
+            "title": "Native Starter Pro - The Bootstrap of React Native"
+        }, 
+        {
+            "location": "/#theme-features", 
+            "text": "", 
+            "title": "Theme Features "
+        }, 
+        {
+            "location": "/#clean-validated-code", 
+            "text": "We can boast with our ability that we provides a code which is easily editable by any person with just enough HTML/PHP knowledge.", 
+            "title": "Clean &amp; Validated Code"
+        }, 
+        {
+            "location": "/#ready-to-use-screens", 
+            "text": "Fully customizable pages with everything you need from SignUp/Login, Compose Mail, Contacts, Calendar to Settings and rich collection of UI elements.", 
+            "title": "Ready to Use Screens"
+        }, 
+        {
+            "location": "/#theme-widgets", 
+            "text": "You won\u2019t spend a fortune on the plugins to make sure your theme sails smoothly on The Seven Seas. Highly customizable widgets are part of our never ending mission.", 
+            "title": "Theme Widgets"
+        }, 
+        {
+            "location": "/#mass-of-ui-elements", 
+            "text": "Ready to use components such as buttons, switches, form elements with ListView and ScrollView implementation and full fledged collection of Icons.", 
+            "title": "Mass of UI Elements"
+        }, 
+        {
+            "location": "/#mail", 
+            "text": "Ready to use Email Template which incorporates the core functionalities of Email process.", 
+            "title": "Mail"
+        }, 
+        {
+            "location": "/#contacts-and-calendar", 
+            "text": "Readily available list of Contacts which are further categorized to Favourites and Recent Contacts.\nInteractive design of Calendar with fast swiping feature.", 
+            "title": "Contacts and Calendar"
+        }, 
+        {
+            "location": "/#charts", 
+            "text": "This theme comes with ready-to-use dynamic chart where you can rate qualities of your product or app.", 
+            "title": "Charts"
+        }, 
+        {
+            "location": "/#responsive-navigator", 
+            "text": "This theme wraps navigation that provides smooth swipe functionality across your app.", 
+            "title": "Responsive Navigator"
+        }, 
+        {
+            "location": "/#responsive-design", 
+            "text": "We know that your website needs to be accessible and readable on all devices. The theme is fully responsive so that your designs look great no matter what.", 
+            "title": "Responsive Design"
+        }, 
+        {
+            "location": "/#wide-choice-of-colors", 
+            "text": "We made sure that our buyers be having plenty of colors with beautiful fonts and subtle graphics to choose from in the theme options.", 
+            "title": "Wide Choice of Colors"
+        }, 
+        {
+            "location": "/#installation", 
+            "text": "", 
+            "title": "Installation "
+        }, 
+        {
+            "location": "/features/", 
+            "text": "Features \n\n\n\n\n\n Text Box \n\n\n\n\n\n\nTextInput\n    style={style}\n    placeholder={text}\n    placeholderTextColor={'rgba(255,255,255,0.7)'}\n/\n\n\nIcon name=\"person\" size={27} color=\"rgba(255,255,255,0.8)\"/\n\n\n\n\n\n\n\n\n\n\nTextInput\n    style={style}\n    placeholder={text}\n    secureTextEntry={boolean_value}\n    placeholderTextColor={'rgba(255,255,255,0.7)'}\n/\n\n\nIcon name=\"ios-unlocked-outline\" size={27} color=\"rgba(255,255,255,0.8)\"/\n\n\n\n\n\n\n\n\n\n\n\n Buttons \n\n\n\n\nRound Button\n\n\n\n\nButtonRounded\n    onPress={function_call()}\n    text=\"Round Button\"\n/\n\n\n\n\n\n\n\n\nCircular Button\n\n\n\n\nCircularButton\n    onPress={function_call()}\n    text={\nIcon name=\"sign-out\" size={35} color=\"rgba(255,255,255,0.9)\"/\n}\n/\n\n\n\n\n\n\n\n\nColored Round Button\n\n\n\n\nButtonColorRounded\n    onPress={function_call()}\n    text=\"Colored Round Button\" \n/\n\n\n\n\n\n\n\n\n\n\n\n Links \n\n\n\n\n\n\nTouchableOpacity onPress={function_call()}\n\n    \nText style={style}\n\n        Forgot Password\n    \n/Text\n\n\n/TouchableOpacity\n\n\n\n\n\n\n\n\n\n\n\n Switch \n\n\n\n\niOS\n\n\nSwitchIOS\n    onValueChange={(value) =\n this.setState({colorFalseSwitchIsOn: value})}\n    onTintColor={\"color\"}\n    thumbTintColor=\"color\"\n    tintColor=\"color\"\n    style={{style}}\n    value={this.state.colorFalseSwitchIsOn}\n/\n\n\n\n\n\n\n\n\nAndroid\n\n\n    \nSwitchAndroid\n        onValueChange={(value) =\n this.setState({trueSwitchIsOn: value})}                                   \n        value={this.state.trueSwitchIsOn}\n    /\n\n\n\n\n\n\n\n\n\n\n\n\n\n Forms \n\n\n\n\n\n\nView style={{style}}\n \n    \nText style={style}\n Input Types \n/Text\n\n    \nTextInput\n        style={style}\n        placeholder={'Name'}\n        placeholderTextColor={'rgba(0,0,0,0.6)'}\n    /\n\n    \nIcon name=\"person\" size={27} color=\"rgba(0,0,0,0.6)\" style={{style}}/\n\n\n    \nTextInput\n        style={style}\n        secureTextEntry={'boolean_value'}\n        placeholder={'Password'}\n        placeholderTextColor={'rgba(0,0,0,0.6)'}\n    /\n\n    \nIcon name=\"ios-unlocked-outline\" size={27} color=\"rgba(0,0,0,0.6)\" style={{style}}/\n\n\n    \nTextInput\n        style={style}\n        placeholder={'About'}\n        multiline={'boolean_value'}\n        placeholderTextColor={'rgba(0,0,0,0.6)'}\n    /\n\n    \nIcon name=\"ios-help-outline\" size={27} color=\"rgba(0,0,0,0.6)\" style={{style}}/\n\n\n    \nText style={style}\n Yes \n/Text\n\n    \nSwitchIOS\n        onValueChange={(value) =\n this.setState({colorTrueSwitchIsOn: value})}\n        onTintColor={\"color\"}\n        thumbTintColor=\"color\"\n        tintColor=\"color\"\n        style={{style}}\n        value={this.state.colorTrueSwitchIsOn}\n    /\n\n\n    \nText style={style}\n No \n/Text\n\n    \nSwitchIOS\n        onValueChange={(value) =\n this.setState({colorFalseSwitchIsOn: value})}\n        onTintColor={\"color\"}\n        thumbTintColor=\"color\"\n        tintColor=\"color\"\n        style={{style}}\n        value={this.state.colorFalseSwitchIsOn}\n    /\n\n\n    \nButtonColorRounded\n        text=\"Continue\"\n    /\n   \n\n/View\n\n\n\n\n\n\n\n\n\n\n\n Lists \n\n\n\n\nRegular List\n\n\n\n\nView style={style}\n\n    \nText style={style}\n\n        Daily Stand Up\n    \n/Text\n\n    \nText style={style}\n\n        10:11 AM\n    \n/Text\n\n\n/View\n\n\n\n\n\n\n\n\nList using Array of Data\n\n\n\n\nvar ds = new ListView.DataSource({rowHasChanged: (r1, r2) =\n r1 !== r2});\nreturn {\n    dataSource: ds.cloneWithRows([\n        {\n            name:    'Kumar Pratik',\n            subject: 'StrapUI',\n            time:    'Monday 05, 11 AM',\n            body:    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aliquam eveniet dolor, earum voluptates corporis. '\n        }\n    ]),\n};\n\n\nListView \n    dataSource={dataSource}\n    renderRow={(rowData) =\n \n        \nView\n\n            \nIcon name=\"ios-heart-outline\" size={22} color=\"rgba(255,255,255,0.6)\"/\n\n            \nText style={style}\n {rowData.name} \n/Text\n\n            \nView style={{style}}\n\n                \nText style={style}\n {rowData.subject} \n/Text\n\n                \nText style={style}\n {rowData.time} \n/Text\n                                 \n            \n/View\n\n            \nText style={style}\n{rowData.body}\n/Text\n\n        \n/View\n\n    }\n/\n\n\n\n\n\n\n\n\n\n\n\n Footer \n\n\n\n\n\n\nFooter /\n\n\n\n\n\n\n\n\n\n\n\n Navigation Bar \n\n\n\n\n\n\nNavbar\n    title=\"January\"\n    subtitle=\"Monday\"\n    style={style}   \n    subtitleStyle={style}\n/\n\n\n\n\n\n\n\n\n\n\n\n Icons \n\n\n\n\n\n\n\n\nIcon name=\"ios-search\" size={34} color=\"#fff\" style={uiElement.icon}/\n\n\n\n\n\n\nIcon name=\"ios-home\" size={34} color=\"#fff\" style={uiElement.icon}/\n\n\n\n\n\n\nIcon name=\"ios-heart-outline\" size={34} color=\"#fff\" style={uiElement.icon}/\n\n\n\n\n\n\n\n\n\n\n\n Calendar \n\n\n\n\n\n\nCalendarPicker \n    selectedDate={'date'}\n    onDateChange={function_call()}\n/\n\n\nText\n Date: {date.toString().substr(4,12)} \n/Text\n\n\n\n\n\n\n\n\n\n\n\n Contact List \n\n\n\n\n\n\nvar ds = new ListView.DataSource({rowHasChanged: (r1, r2) =\n r1 !== r2});\nreturn {\n    dataSource: ds.cloneWithRows([\n            {\n                name:   'Atul Rajan',\n                url:    require('../img/atul.png'),\n                number: 8861522489                      \n            }\n        ])\n    };\n\n\nListView \n    dataSource={dataSource}\n    renderRow={(rowData) =\n \n        \nTouchableOpacity \n\n            \nView style={style}\n                            \n                \nImage\n                    style={{\n                        height: 50,\n                        borderRadius: 25,\n                        width: 50\n                    }}\n                    source={rowData.url}\n                /\n \n                \nView style={style}\n\n                    \nText style={style}\n {rowData.name} \n/Text\n\n                    \nText style={style}\n {rowData.number} \n/Text\n\n                \n/View\n\n            \n/View\n\n        \n/TouchableOpacity\n\n    }\n/\n\n\n\n\n\n\n\n\n\n\n\n Scroll Tab \n\n\n\n\n\n\nScrollableTabView\n\n    \nAllContacts tabLabel=\"All\" /\n\n    \nFavourites tabLabel=\"Favourites\" /\n\n    \nRecent tabLabel=\"Recent\" /\n\n\n/ScrollableTabView", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/features/#features", 
+            "text": "", 
+            "title": " Features "
+        }, 
+        {
+            "location": "/features/#text-box", 
+            "text": "", 
+            "title": " Text Box "
+        }, 
+        {
+            "location": "/features/#buttons", 
+            "text": "", 
+            "title": " Buttons "
+        }, 
+        {
+            "location": "/features/#round-button", 
+            "text": "ButtonRounded\n    onPress={function_call()}\n    text=\"Round Button\"\n/", 
+            "title": "Round Button"
+        }, 
+        {
+            "location": "/features/#circular-button", 
+            "text": "CircularButton\n    onPress={function_call()}\n    text={ Icon name=\"sign-out\" size={35} color=\"rgba(255,255,255,0.9)\"/ }\n/", 
+            "title": "Circular Button"
+        }, 
+        {
+            "location": "/features/#colored-round-button", 
+            "text": "ButtonColorRounded\n    onPress={function_call()}\n    text=\"Colored Round Button\" \n/", 
+            "title": "Colored Round Button"
+        }, 
+        {
+            "location": "/features/#links", 
+            "text": "", 
+            "title": " Links "
+        }, 
+        {
+            "location": "/features/#switch", 
+            "text": "", 
+            "title": " Switch "
+        }, 
+        {
+            "location": "/features/#ios", 
+            "text": "SwitchIOS\n    onValueChange={(value) =  this.setState({colorFalseSwitchIsOn: value})}\n    onTintColor={\"color\"}\n    thumbTintColor=\"color\"\n    tintColor=\"color\"\n    style={{style}}\n    value={this.state.colorFalseSwitchIsOn}\n/", 
+            "title": "iOS"
+        }, 
+        {
+            "location": "/features/#android", 
+            "text": "SwitchAndroid\n        onValueChange={(value) =  this.setState({trueSwitchIsOn: value})}                                   \n        value={this.state.trueSwitchIsOn}\n    /", 
+            "title": "Android"
+        }, 
+        {
+            "location": "/features/#forms", 
+            "text": "", 
+            "title": " Forms "
+        }, 
+        {
+            "location": "/features/#lists", 
+            "text": "", 
+            "title": " Lists "
+        }, 
+        {
+            "location": "/features/#regular-list", 
+            "text": "View style={style} \n     Text style={style} \n        Daily Stand Up\n     /Text \n     Text style={style} \n        10:11 AM\n     /Text  /View", 
+            "title": "Regular List"
+        }, 
+        {
+            "location": "/features/#list-using-array-of-data", 
+            "text": "var ds = new ListView.DataSource({rowHasChanged: (r1, r2) =  r1 !== r2});\nreturn {\n    dataSource: ds.cloneWithRows([\n        {\n            name:    'Kumar Pratik',\n            subject: 'StrapUI',\n            time:    'Monday 05, 11 AM',\n            body:    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aliquam eveniet dolor, earum voluptates corporis. '\n        }\n    ]),\n}; ListView \n    dataSource={dataSource}\n    renderRow={(rowData) =  \n         View \n             Icon name=\"ios-heart-outline\" size={22} color=\"rgba(255,255,255,0.6)\"/ \n             Text style={style}  {rowData.name}  /Text \n             View style={{style}} \n                 Text style={style}  {rowData.subject}  /Text \n                 Text style={style}  {rowData.time}  /Text                                  \n             /View \n             Text style={style} {rowData.body} /Text \n         /View \n    }\n/", 
+            "title": "List using Array of Data"
+        }, 
+        {
+            "location": "/features/#footer", 
+            "text": "", 
+            "title": " Footer "
+        }, 
+        {
+            "location": "/features/#navigation-bar", 
+            "text": "", 
+            "title": " Navigation Bar "
+        }, 
+        {
+            "location": "/features/#icons", 
+            "text": "", 
+            "title": " Icons "
+        }, 
+        {
+            "location": "/features/#calendar", 
+            "text": "", 
+            "title": " Calendar "
+        }, 
+        {
+            "location": "/features/#contact-list", 
+            "text": "", 
+            "title": " Contact List "
+        }, 
+        {
+            "location": "/features/#scroll-tab", 
+            "text": "", 
+            "title": " Scroll Tab "
+        }, 
+        {
+            "location": "/packages/", 
+            "text": "Packages Used \n\n\n\n\n\n\n\n\n\n\n\nflux\n: ^2.1.1\n\n\n\n\n\n\nreact-native\n: 0.17\n\n\n\n\n\n\nreact-native-android-statusbar\n: 0.1.2\n\n\n\n\n\n\nreact-native-drawer\n: ^1.8.0\n\n\n\n\n\n\nreact-native-navbar\n: ^1.1.4\n\n\n\n\n\n\nreact-native-vector-icons\n: 1.0.0-rc", 
+            "title": "Packages"
+        }, 
+        {
+            "location": "/packages/#packages-used", 
+            "text": "", 
+            "title": " Packages Used "
+        }, 
+        {
+            "location": "/faqs/", 
+            "text": "FAQs \n\n\n\n\n\n\n    \n\n        \n\n            \n\n                \n\n                    \n\n                        \n Xcode Build Failed \n\n                        \n\n                    \n\n                \n\n            \n\n            \n\n                \n\n                    When I run it in Xcode I'm getting a \"Build Failed\" error, with message:\n                    \n\n                        \n\n                            ld: library not found for -lRNVectorIcons\n                        \n\n                        \n\n                            clang: error: linker command failed with exit code 1 (use -v to see invocation)\n                        \n\n                    \n\n                \n\n                \n\n                    \n Probabilities \n\n                    \n\n                        \n This might be the problem if you have \n'npm3'\n installed in your system. \n\n                        \n Make sure you have installed \n'npm2'\n. \n\n                        \n Linking the Vector Icons repo in XCode will solve the issue \n\n                    \n \n\n                    \n Solution 1: Drag-drop to link RN Vector Icons files\n\n                    \n\n                        \n In your finder / computer, navigate to \n'NativeStarter'\n(project folder) -> node_modules -> react-native-vector-icons \n\n                        \n Drag the \n'RNVectorIcons.xcodeproj'\n to the Libraries in the sidebar as explained in the image below \n\n                    \n \n\n                    \n Solution 2: Manually link the RN Vector Icons files\n\n                    Steps:\n\n                    \n\n                        \n Go to \n'Build Phases'\n in Xcode \n\n                        \n Link Binaries with Libraries by clicking on \n'+'\n \n\n                        \n Click on \n'Add Other'\n \n\n                        \n Navigate to \n'NativeStarter'\n (project folder) -> node_modules -> react-native-vector-icons \n\n                        \n Select \n'RNVectorIcons.xcodeproj'\n \n\n                        \n Clean Build \n\n                        \n Build Again \n\n                    \n \n\n                \n\n            \n\n        \n\n        \n\n            \n\n                \n\n                    \n\n                        \n Watchman Error \n\n                        \n\n                    \n\n                \n\n            \n\n            \n\n                \n\n                    I am getting a watchman error when I run npm install.\n                \n\n                \n\n                    \nSolution:\n \n                    \n\n                        \n Update \n'watchman'\n to the latest version. \n\n                        \n Run \n'npm'\n install again.", 
+            "title": "FAQs"
+        }, 
+        {
+            "location": "/faqs/#faqs", 
+            "text": "", 
+            "title": " FAQs "
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Native Starter Pro\n \n\n\n\n\n\nRelease Notes\n\n\n\n\n\n\n\n\nParticulars\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nVersion\n\n\n1.0\n\n\n\n\n\n\nPublished On\n\n\nNovember 19, 2015\n\n\n\n\n\n\nLast Updated\n\n\nJanuary 25, 2016\n\n\n\n\n\n\nReact Native Version\n\n\n0.17\n\n\n\n\n\n\nPlatforms \n(compatible with)\n\n\nAndroid and iOS\n\n\n\n\n\n\nCategoreis\n\n\nMulti Pages\n\n\n\n\n\n\n\n\n\n\n\n\nLicense\n\n\n\n\n\nUse of an item is bound by the license you purchase. A license grants you a non-exclusive and non-transferable right to use and incorporate the item in your personal or commercial projects. There are several licenses available:\n\n\n\n\n\n\nYou may use the item in work which you are creating for your own purposes or for your clients.\n\n\nYou must not incorporate the item in a work which is created for redistribution or resale by you or your clients.\n\n\nThe item may not be redistributed or resold.\n\n\nIf the item contains licensed components, those components must only be used within the item and you must not extract and use them on a stand-alone basis.\n\n\nIf the item was created using materials which are the subject of a GNU General Public License (GPL), your use of the item is subject to the terms of the GPL in place of the foregoing conditions (to the extent the GPL applies).\n\n\n\n\n\n\nSingle License\n\n\nYour use of the item is restricted to a single installation.\n\n\n\n\nMultiple License\n\n\nYour use of the item is restricted to five installations.\n\n\n\n\nMultiple-Unlimited License\n\n\n\n\nThis license must be purchased if you intend to license, sublicense or redistribute the final product.\n\n\nYour use of the item may extend to multiple installations.\n\n\nYou cannot sale the item on any premium theme market or make it open source.\n\n\nYou may license, sublicense or redistribute the item in the following circumstances:\n\n\nThe item is incorporated into a larger work you have created; or\n\n\nIf you modify the item and resell the end product.\n\n\nIf the item contains licensed components, those components must only be used within the item and you must not extract and use them on a stand-alone basis.\n\n\nIf the item was created using materials which are the subject of a GNU General Public License (GPL), your use of the item is subject to the terms of the GPL in place of the foregoing conditions (to the extent the GPL applies).", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#native-starter-pro", 
+            "text": "", 
+            "title": " Native Starter Pro "
+        }, 
+        {
+            "location": "/about/#release-notes", 
+            "text": "Particulars  Value      Version  1.0    Published On  November 19, 2015    Last Updated  January 25, 2016    React Native Version  0.17    Platforms  (compatible with)  Android and iOS    Categoreis  Multi Pages", 
+            "title": "Release Notes"
+        }, 
+        {
+            "location": "/about/#license", 
+            "text": "Use of an item is bound by the license you purchase. A license grants you a non-exclusive and non-transferable right to use and incorporate the item in your personal or commercial projects. There are several licenses available:", 
+            "title": "License"
+        }, 
+        {
+            "location": "/about/#single-license", 
+            "text": "Your use of the item is restricted to a single installation.", 
+            "title": "Single License"
+        }, 
+        {
+            "location": "/about/#multiple-license", 
+            "text": "Your use of the item is restricted to five installations.", 
+            "title": "Multiple License"
+        }, 
+        {
+            "location": "/about/#multiple-unlimited-license", 
+            "text": "This license must be purchased if you intend to license, sublicense or redistribute the final product.  Your use of the item may extend to multiple installations.  You cannot sale the item on any premium theme market or make it open source.  You may license, sublicense or redistribute the item in the following circumstances:  The item is incorporated into a larger work you have created; or  If you modify the item and resell the end product.  If the item contains licensed components, those components must only be used within the item and you must not extract and use them on a stand-alone basis.  If the item was created using materials which are the subject of a GNU General Public License (GPL), your use of the item is subject to the terms of the GPL in place of the foregoing conditions (to the extent the GPL applies).", 
+            "title": "Multiple-Unlimited License"
+        }
+    ]
+}
