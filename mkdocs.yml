@@ -1,0 +1,27 @@
+
+site_name: Native Starter Pro
+
+theme: cerulean
+
+pages:
+- Home: 'index.md'
+- Features: 'features.md'
+- Packages: 'packages.md'
+- FAQs: 'faqs.md'
+- About: 'about.md'
+
+site_description: Native Starter Pro Documentation
+
+site_url: http://strapmobile.com/docs/native-starter-pro/
+
+repo_url: http://gitlab.sahusoft.com/products/native-starter-pro-docs
+
+site_author: StrapMobile
+
+site_favicon: favicon.png
+
+docs_dir: docs
+
+site_dir: site
+
+use_directory_urls: true
